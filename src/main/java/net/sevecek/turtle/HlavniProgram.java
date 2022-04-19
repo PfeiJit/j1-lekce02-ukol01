@@ -5,9 +5,9 @@ import net.sevecek.turtle.engine.*;
 public class HlavniProgram {
 
     public void main(String[] args) {
-        Turtle zofka;
+        Turtle zofie;
 
-        zofka = new Turtle();
+        zofie = new Turtle();
     }
 
 }
